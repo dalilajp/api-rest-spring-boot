@@ -1,0 +1,4 @@
+INSERT INTO CLIENTE(nome, cpf, idade, endereco, cep) VALUES('Jorge Vicente Lucas Duarte', '397.180.811-51', '53', 'Rua Pierina Manfro, 936', '95043-450');
+INSERT INTO CLIENTE(nome, cpf, idade, endereco, cep) VALUES('Renan Gustavo da Conceição', '852.636.733-10', '62', 'Rua Pierina Manfro, 936', '95043-450');
+INSERT INTO CLIENTE(nome, cpf, idade, endereco, cep) VALUES('Gabriel Levi Severino da Cunha', '584.761.238-92', '46', 'Rua Pierina Manfro, 936', '95043-450');
+INSERT INTO CLIENTE(nome, cpf, idade, endereco, cep) VALUES('Rayssa Cristiane Viana', '677.007.804-04', '28', 'Rua Pierina Manfro, 936', '95043-450');
